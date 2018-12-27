@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LocationMVP</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="request_location_permission">Location permissions are necessary to display you correct search results.</string>
+    <string name="allow">Allow</string>
+    <string name="cancel">Cancel</string>
+    <string name="hint_search_query">Search venues near you</string>
+    <string name="hint_search_button">Search for venues</string>
+    <string name="venue_distance_in_km">%1$d KM</string>
+    <string name="ok">Ok</string>
+    <string name="error_no_search_results">Couldn\'t find anything. Please try again with differnet keyword.</string>
+</resources>
